@@ -1,3 +1,3 @@
 rm 607
-bl -gc battery
+bl -5c battery
 
