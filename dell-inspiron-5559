@@ -1,0 +1,63 @@
+Dell Inspiron 5459/5559/5759
+
+global release : 2015
+
+Base Hardware Only Ended on July 7, 2017
+
+Ethernet controller: Realtek Semiconductor Co., Ltd. RTL810xE 
+Network controller: Intel Corporation Wireless 3160 
+802.11ac + Bluetooth 4.0, Dual Band 2.4&5 GHz, 1x1
+bluetooth 4.0
+
+ Display controller: 
+ AMD Radeon R5 M335 2GB DDR3
+ Intel HD Graphics 520 
+
+40-Whr 4 cell battery
+
+Intel(R) Core(TM) i7-6500U (4) @ 3.10 GHz
+4mb cache
+
+65 watt adapter, 4.5mm, Liteon
+
+Realtek ALC3234 with Waves MaxxAudio
+
+
+
+Liquid Crystal Display,15.6HDF,EDP1.2,True Life
+INFO,SWSI,LCD,15.6,NON-TCH 
+
+RAM
+8GB Dual Channel DDR3L 1600MHz (4GBx2)
+Dual In-Line Memory Module,4GB,1600,1RX8,4G,DDR3L,Ss
+
+Assembly,Speaker,384X54.96X10,T/V15
+Assembly,Touchpad,5555/8,5755/8
+LBL,AMD,GRPHC,PID,53062-A
+KIT,CVR,HDF,BLK,NT,HD,S-PLMRST
+Assembly,Cable,Embedded Display Port,N-T,Hard Drive,TLP/VG 15
+Assembly,Camera,0.92M,W/2 MIC,TULIP
+
+SRV,SW,OS,UBUNTU14.04 SP1
+
+weight 2.40 kg (5.3 lbs)
+usb 3.2 Gen 1 (5 Gbps)
+
+3-in-1 Media Card Reader and USB 3.0
+Bluetooth tied to wireless card
+Addl SW,INS,SMOD,Win10,US/CAN (INSW10)
+
+height ‎0.95 Inches
+width ‎14.9 Inches
+standing size ‎15.6 Inches
+resolution ‎1366 x 768 pixels
+‎26.04 x 37.85 x 2.41 cm; 2.45 kg
+BOE0808
+
+
+
+
+
+ 
+
+ 
